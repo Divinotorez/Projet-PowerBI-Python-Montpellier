@@ -8,7 +8,6 @@ L'objectif est de déterminer à partir de quelle durée le logement non-meublé
 
 ## 📊 Dashboard
 
-![Dashboard Power BI](image/Dashboard.png)
 
 ### Résultat principal
 
