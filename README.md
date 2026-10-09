@@ -13,9 +13,9 @@ L'objectif est de déterminer à partir de quelle durée le logement non-meublé
 
 Le modèle met en évidence un **point de bascule d'environ 5,89 ans** :
 
-- 🟦 **Avant 5,89 ans** → Meublé plus avantageux
-- 🟨 **À 5,89 ans** → Coût cumulé équivalent
-- 🟩 **Après 5,89 ans** → Non-meublé plus avantageux
+-  **Avant 5,89 ans** → Meublé plus avantageux
+-  **À 5,89 ans** → Coût cumulé équivalent
+-  **Après 5,89 ans** → Non-meublé plus avantageux
 
 ## 🛠️ Technologies
 
