@@ -1,12 +1,12 @@
-# 🏠 Meublé vs Non-meublé — Montpellier
+#  Meublé vs Non-meublé — Montpellier
 
-## 📌 Projet
+##  Projet
 
 Analyse comparative du coût d'un logement étudiant **meublé vs non-meublé** à Montpellier, avec un focus sur l'impact de la **durée d'occupation**.
 
 L'objectif est de déterminer à partir de quelle durée le logement non-meublé devient financièrement plus intéressant malgré le coût initial d'aménagement.
 
-## 📊 Dashboard
+##  Dashboard
 
 
 ### Résultat principal
@@ -17,13 +17,13 @@ Le modèle met en évidence un **point de bascule d'environ 5,89 ans** :
 -  **À 5,89 ans** → Coût cumulé équivalent
 -  **Après 5,89 ans** → Non-meublé plus avantageux
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Python / Pandas** — préparation et analyse des données
 - **Microsoft Power BI** — modélisation et visualisation
 - **Excel** — préparation de certaines données
 
-## 📁 Contenu du repository
+##  Contenu du repository
 
 | Dossier | Contenu |
 |---|---|
@@ -33,7 +33,7 @@ Le modèle met en évidence un **point de bascule d'environ 5,89 ans** :
 | `Rapport/` | Rapport détaillé du projet |
 | `image/` | Aperçu du dashboard |
 
-## 🎯 Compétences mobilisées
+##  Compétences mobilisées
 
 - Data cleaning & préparation des données
 - Analyse comparative
